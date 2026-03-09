@@ -1,6 +1,6 @@
 {
   "name": "Jingle Pack",
   "entries": [
-    { "game": "The Legend of Zelda - Majora's Mask 3D", "file": "jingles/zelda_majoras_mask_3d.wav" },
+    { "game": "The Legend of Zelda - Majora", "file": "jingles/zelda_majoras_mask_3d.wav" },
   ]
 }
