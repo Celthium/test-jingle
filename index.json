@@ -1,11 +1,13 @@
 {
   "name": "Jingles Pack",
-  "n3ds": [
-    { "game": "Pokemon Omega Ruby", "file": "jingles/n3ds/pokemon_omega_ruby.wav" },
-    { "game": "WarioWare Gold", "file": "jingles/n3ds/warioware_gold.wav" }
-  ],
-  "wii": [
-    { "game": "Mario Kart Wii Deluxe X", "file": "jingles/wii/mk_wii.wav" },
-    { "game": "Super Mario Galaxy", "file": "jingles/wii/smg.wav" }
-  ]
+  "entries": {
+    "n3ds": [
+      { "game": "Pokemon Omega Ruby", "file": "jingles/n3ds/pokemon_omega_ruby.wav" },
+      { "game": "WarioWare Gold", "file": "jingles/n3ds/warioware_gold.wav" }
+    ],
+    "wii": [
+      { "game": "Mario Kart Wii Deluxe X", "file": "jingles/wii/mk_wii.wav" },
+      { "game": "Super Mario Galaxy", "file": "jingles/wii/smg.wav" }
+    ]
+  }
 }
